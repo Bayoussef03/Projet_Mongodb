@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65e722b1d4870c7ccecff32a"
+  },
+  "ID": 1,
+  "nom": "Audio"
+},
+{
+  "_id": {
+    "$oid": "65e722b1d4870c7ccecff32b"
+  },
+  "ID": 2,
+  "nom": "Périphériques"
+},
+{
+  "_id": {
+    "$oid": "65e722b1d4870c7ccecff32c"
+  },
+  "ID": 3,
+  "nom": "Consoles de jeu"
+},
+{
+  "_id": {
+    "$oid": "65e722b1d4870c7ccecff32d"
+  },
+  "ID": 4,
+  "nom": "Informatique"
+}]

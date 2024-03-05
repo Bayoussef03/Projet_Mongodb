@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65e7257fd4870c7ccecff38d"
+  },
+  "ID": 1,
+  "pourcentage_reduction": 15,
+  "date_debut": "2024-03-01",
+  "date_fin": "2024-03-15",
+  "produitID": 2
+},
+{
+  "_id": {
+    "$oid": "65e7257fd4870c7ccecff38e"
+  },
+  "ID": 2,
+  "pourcentage_reduction": 10,
+  "date_debut": "2024-03-01",
+  "date_fin": "2024-03-14",
+  "produitID": 3
+},
+{
+  "_id": {
+    "$oid": "65e7257fd4870c7ccecff38f"
+  },
+  "ID": 3,
+  "pourcentage_reduction": 25,
+  "date_debut": "2024-03-01",
+  "date_fin": "2024-03-16",
+  "produitID": 4
+},
+{
+  "_id": {
+    "$oid": "65e7257fd4870c7ccecff390"
+  },
+  "ID": 4,
+  "pourcentage_reduction": 30,
+  "date_debut": "2024-03-01",
+  "date_fin": "2024-03-18",
+  "produitID": 5
+},
+{
+  "_id": {
+    "$oid": "65e7257fd4870c7ccecff391"
+  },
+  "ID": 5,
+  "pourcentage_reduction": 15,
+  "date_debut": "2024-03-01",
+  "date_fin": "2024-03-20",
+  "produitID": 6
+},
+{
+  "_id": {
+    "$oid": "65e7257fd4870c7ccecff392"
+  },
+  "ID": 6,
+  "pourcentage_reduction": 20,
+  "date_debut": "2024-03-01",
+  "date_fin": "2024-03-22",
+  "produitID": 7
+},
+{
+  "_id": {
+    "$oid": "65e7257fd4870c7ccecff393"
+  },
+  "ID": 7,
+  "pourcentage_reduction": 10,
+  "date_debut": "2024-03-01",
+  "date_fin": "2024-03-24",
+  "produitID": 8
+},
+{
+  "_id": {
+    "$oid": "65e7257fd4870c7ccecff394"
+  },
+  "ID": 8,
+  "pourcentage_reduction": 20,
+  "date_debut": "2024-03-01",
+  "date_fin": "2024-03-26",
+  "produitID": 9
+}]

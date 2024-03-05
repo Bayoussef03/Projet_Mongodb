@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff364"
+  },
+  "ID": 1,
+  "userID": 3,
+  "date": "2024-03-09",
+  "produits": [
+    {
+      "produitID": 1,
+      "quantite": 2
+    }
+  ],
+  "statut": "en cours"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff365"
+  },
+  "ID": 2,
+  "userID": 3,
+  "date": "2024-03-10",
+  "produits": [
+    {
+      "produitID": 2,
+      "quantite": 1
+    }
+  ],
+  "statut": "expédié"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff366"
+  },
+  "ID": 3,
+  "userID": 4,
+  "date": "2024-03-11",
+  "produits": [
+    {
+      "produitID": 3,
+      "quantite": 3
+    }
+  ],
+  "statut": "en cours"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff367"
+  },
+  "ID": 4,
+  "userID": 5,
+  "date": "2024-03-12",
+  "produits": [
+    {
+      "produitID": 4,
+      "quantite": 2
+    }
+  ],
+  "statut": "expédié"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff368"
+  },
+  "ID": 5,
+  "userID": 6,
+  "date": "2024-03-13",
+  "produits": [
+    {
+      "produitID": 5,
+      "quantite": 4
+    }
+  ],
+  "statut": "en cours"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff369"
+  },
+  "ID": 6,
+  "userID": 7,
+  "date": "2024-03-14",
+  "produits": [
+    {
+      "produitID": 6,
+      "quantite": 2
+    }
+  ],
+  "statut": "expédié"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff36a"
+  },
+  "ID": 7,
+  "userID": 8,
+  "date": "2024-03-15",
+  "produits": [
+    {
+      "produitID": 7,
+      "quantite": 3
+    }
+  ],
+  "statut": "en cours"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff36b"
+  },
+  "ID": 8,
+  "userID": 9,
+  "date": "2024-03-16",
+  "produits": [
+    {
+      "produitID": 8,
+      "quantite": 1
+    }
+  ],
+  "statut": "expédié"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff36c"
+  },
+  "ID": 9,
+  "userID": 10,
+  "date": "2024-03-17",
+  "produits": [
+    {
+      "produitID": 9,
+      "quantite": 2
+    }
+  ],
+  "statut": "en cours"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff36d"
+  },
+  "ID": 10,
+  "userID": 11,
+  "date": "2024-03-18",
+  "produits": [
+    {
+      "produitID": 10,
+      "quantite": 3
+    }
+  ],
+  "statut": "expédié"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff36e"
+  },
+  "ID": 11,
+  "userID": 12,
+  "date": "2024-03-19",
+  "produits": [
+    {
+      "produitID": 11,
+      "quantite": 1
+    }
+  ],
+  "statut": "en cours"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff36f"
+  },
+  "ID": 12,
+  "userID": 13,
+  "date": "2024-03-20",
+  "produits": [
+    {
+      "produitID": 12,
+      "quantite": 4
+    }
+  ],
+  "statut": "expédié"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff370"
+  },
+  "ID": 13,
+  "userID": 14,
+  "date": "2024-03-21",
+  "produits": [
+    {
+      "produitID": 13,
+      "quantite": 2
+    }
+  ],
+  "statut": "en cours"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff371"
+  },
+  "ID": 14,
+  "userID": 15,
+  "date": "2024-03-22",
+  "produits": [
+    {
+      "produitID": 14,
+      "quantite": 3
+    }
+  ],
+  "statut": "expédié"
+},
+{
+  "_id": {
+    "$oid": "65e723ffd4870c7ccecff372"
+  },
+  "ID": 15,
+  "userID": 16,
+  "date": "2024-03-23",
+  "produits": [
+    {
+      "produitID": 15,
+      "quantite": 2
+    }
+  ],
+  "statut": "en cours"
+}]

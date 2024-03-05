@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff375"
+  },
+  "produitID": 1,
+  "quantite_disponible": 100
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff376"
+  },
+  "produitID": 2,
+  "quantite_disponible": 100
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff377"
+  },
+  "produitID": 3,
+  "quantite_disponible": 1
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff378"
+  },
+  "produitID": 4,
+  "quantite_disponible": 10
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff379"
+  },
+  "produitID": 5,
+  "quantite_disponible": 50
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff37a"
+  },
+  "produitID": 6,
+  "quantite_disponible": 75
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff37b"
+  },
+  "produitID": 7,
+  "quantite_disponible": 200
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff37c"
+  },
+  "produitID": 8,
+  "quantite_disponible": 30
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff37d"
+  },
+  "produitID": 9,
+  "quantite_disponible": 20
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff37e"
+  },
+  "produitID": 10,
+  "quantite_disponible": 90
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff37f"
+  },
+  "produitID": 11,
+  "quantite_disponible": 150
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff380"
+  },
+  "produitID": 12,
+  "quantite_disponible": 25
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff381"
+  },
+  "produitID": 13,
+  "quantite_disponible": 80
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff382"
+  },
+  "produitID": 14,
+  "quantite_disponible": 60
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff383"
+  },
+  "produitID": 15,
+  "quantite_disponible": 40
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff384"
+  },
+  "produitID": 16,
+  "quantite_disponible": 70
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff385"
+  },
+  "produitID": 17,
+  "quantite_disponible": 55
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff386"
+  },
+  "produitID": 18,
+  "quantite_disponible": 110
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff387"
+  },
+  "produitID": 19,
+  "quantite_disponible": 85
+},
+{
+  "_id": {
+    "$oid": "65e72458d4870c7ccecff388"
+  },
+  "produitID": 20,
+  "quantite_disponible": 120
+}]

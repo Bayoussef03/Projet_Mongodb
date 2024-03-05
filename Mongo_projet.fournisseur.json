@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65e72323d4870c7ccecff331"
+  },
+  "ID": 1,
+  "nom": "SoundTech",
+  "adresse": "719 Avenue du Son, AudioVille",
+  "contact": "info@soundtech.fr"
+},
+{
+  "_id": {
+    "$oid": "65e72323d4870c7ccecff332"
+  },
+  "ID": 2,
+  "nom": "fnac",
+  "adresse": "30 avenue des genottes,paris",
+  "contact": "info@fnac.fr"
+},
+{
+  "_id": {
+    "$oid": "65e72323d4870c7ccecff333"
+  },
+  "ID": 3,
+  "nom": "micromania",
+  "adresse": "2 avenue de centaure,paris",
+  "contact": "info@soundtech.fr"
+},
+{
+  "_id": {
+    "$oid": "65e72323d4870c7ccecff334"
+  },
+  "ID": 4,
+  "nom": "apple",
+  "adresse": "40, rue des jeunes,la defense",
+  "contact": "info@apple.fr"
+},
+{
+  "_id": {
+    "$oid": "65e72323d4870c7ccecff335"
+  },
+  "ID": 5,
+  "nom": "hubside",
+  "adresse": "21 rue de x , cergy",
+  "contact": "info@hubside.fr"
+}]

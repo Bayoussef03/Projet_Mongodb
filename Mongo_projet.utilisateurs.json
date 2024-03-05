@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff34e"
+  },
+  "ID": 1,
+  "nom": "Eva Martin",
+  "email": "eva@example.com",
+  "mot_de_passe": "password123",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff34f"
+  },
+  "ID": 2,
+  "nom": "Frank Dupont",
+  "email": "frank@example.com",
+  "mot_de_passe": "securepass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff350"
+  },
+  "ID": 3,
+  "nom": "Alice Dubois",
+  "email": "alice@example.com",
+  "mot_de_passe": "alicepass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff351"
+  },
+  "ID": 4,
+  "nom": "Bob Smith",
+  "email": "bob@example.com",
+  "mot_de_passe": "bobpass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff352"
+  },
+  "ID": 5,
+  "nom": "Sophie Johnson",
+  "email": "sophie@example.com",
+  "mot_de_passe": "sophiepass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff353"
+  },
+  "ID": 6,
+  "nom": "Lucas Garcia",
+  "email": "lucas@example.com",
+  "mot_de_passe": "lucaspass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff354"
+  },
+  "ID": 7,
+  "nom": "Emma Martinez",
+  "email": "emma@example.com",
+  "mot_de_passe": "emmapass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff355"
+  },
+  "ID": 8,
+  "nom": "Liam Wilson",
+  "email": "liam@example.com",
+  "mot_de_passe": "liampass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff356"
+  },
+  "ID": 9,
+  "nom": "Olivia Rodriguez",
+  "email": "olivia@example.com",
+  "mot_de_passe": "oliviapass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff357"
+  },
+  "ID": 10,
+  "nom": "Noah Lopez",
+  "email": "noah@example.com",
+  "mot_de_passe": "noahpass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff358"
+  },
+  "ID": 11,
+  "nom": "Ava Lee",
+  "email": "ava@example.com",
+  "mot_de_passe": "avapass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff359"
+  },
+  "ID": 12,
+  "nom": "William Perez",
+  "email": "william@example.com",
+  "mot_de_passe": "williampass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff35a"
+  },
+  "ID": 13,
+  "nom": "Isabella Scott",
+  "email": "isabella@example.com",
+  "mot_de_passe": "isabellapass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff35b"
+  },
+  "ID": 14,
+  "nom": "James Taylor",
+  "email": "james@example.com",
+  "mot_de_passe": "jamespass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff35c"
+  },
+  "ID": 15,
+  "nom": "Charlotte Hernandez",
+  "email": "charlotte@example.com",
+  "mot_de_passe": "charlottepass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff35d"
+  },
+  "ID": 16,
+  "nom": "Logan Martinez",
+  "email": "logan@example.com",
+  "mot_de_passe": "loganpass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff35e"
+  },
+  "ID": 17,
+  "nom": "Amelia Nguyen",
+  "email": "amelia@example.com",
+  "mot_de_passe": "ameliapass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff35f"
+  },
+  "ID": 18,
+  "nom": "Benjamin Kim",
+  "email": "benjamin@example.com",
+  "mot_de_passe": "benjaminpass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff360"
+  },
+  "ID": 19,
+  "nom": "Sophia Brown",
+  "email": "sophia@example.com",
+  "mot_de_passe": "sophiapass",
+  "role": "client"
+},
+{
+  "_id": {
+    "$oid": "65e723d5d4870c7ccecff361"
+  },
+  "ID": 20,
+  "nom": "Daniel Lee",
+  "email": "daniel@example.com",
+  "mot_de_passe": "danielpass",
+  "role": "client"
+}]

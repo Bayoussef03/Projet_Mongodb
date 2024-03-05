@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff316"
+  },
+  "ID": 1,
+  "nom": "Souris",
+  "prix": 60,
+  "categorieID": 2,
+  "fournisseurID": 4,
+  "avisID": 1
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff317"
+  },
+  "ID": 2,
+  "nom": "Clavier sans fil",
+  "prix": 45,
+  "categorieID": 2,
+  "fournisseurID": 3,
+  "avisID": 2
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff318"
+  },
+  "ID": 3,
+  "nom": "Casque audio",
+  "description": "Casque audio avec réduction de bruit et qualité sonore exceptionnelle.",
+  "prix": 120,
+  "categorieID": 1,
+  "fournisseurID": 4,
+  "avisID": 3
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff319"
+  },
+  "ID": 4,
+  "nom": "Enceinte Bluetooth",
+  "description": "Enceinte portable avec connectivité Bluetooth et batterie longue durée.",
+  "prix": 80,
+  "categorieID": 1,
+  "fournisseurID": 4,
+  "avisID": 4
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff31a"
+  },
+  "ID": 5,
+  "nom": "Microphone USB",
+  "description": "Microphone de qualité studio avec connexion USB pour un enregistrement facile.",
+  "prix": 50,
+  "categorieID": 2,
+  "fournisseurID": 5,
+  "avisID": 5
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff31b"
+  },
+  "ID": 6,
+  "nom": "Lunettes de réalité virtuelle",
+  "description": "Lunettes VR pour une expérience immersive dans les mondes virtuels.",
+  "prix": 100,
+  "categorieID": 2,
+  "fournisseurID": 2,
+  "avisID": 6
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff31c"
+  },
+  "ID": 7,
+  "nom": "Manette de jeu sans fil",
+  "description": "Manette de jeu sans fil compatible avec toutes les consoles de jeu populaires.",
+  "prix": 55,
+  "categorieID": 2,
+  "fournisseurID": 3,
+  "avisID": 7
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff31d"
+  },
+  "ID": 8,
+  "nom": "Caméra de sécurité WiFi",
+  "description": "Caméra de surveillance WiFi pour la sécurité de votre maison ou de votre bureau.",
+  "prix": 70,
+  "categorieID": 2,
+  "fournisseurID": 2,
+  "avisID": 8
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff31e"
+  },
+  "ID": 9,
+  "nom": "Ordinateur portable",
+  "description": "Ordinateur portable léger et puissant pour une utilisation quotidienne.",
+  "prix": 800,
+  "categorieID": 4,
+  "fournisseurID": 1,
+  "avisID": 9
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff31f"
+  },
+  "ID": 10,
+  "nom": "Ordinateur de bureau",
+  "description": "Ordinateur de bureau haute performance avec processeur rapide et grande capacité de stockage.",
+  "prix": 1200,
+  "categorieID": 4,
+  "fournisseurID": 2,
+  "avisID": 10
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff320"
+  },
+  "ID": 11,
+  "nom": "Mini PC",
+  "description": "Mini PC compact pour les besoins informatiques basiques.",
+  "prix": 400,
+  "categorieID": 4,
+  "fournisseurID": 2,
+  "avisID": 11
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff321"
+  },
+  "ID": 12,
+  "nom": "Tablette hybride",
+  "description": "Tablette avec clavier détachable pour une utilisation polyvalente comme un ordinateur portable.",
+  "prix": 600,
+  "categorieID": 4,
+  "fournisseurID": 1,
+  "avisID": 12
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff322"
+  },
+  "ID": 13,
+  "nom": "Station de travail",
+  "description": "Station de travail haut de gamme pour les tâches de conception et d'édition vidéo.",
+  "prix": 2000,
+  "categorieID": 4,
+  "fournisseurID": 3,
+  "avisID": 13
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff323"
+  },
+  "ID": 14,
+  "nom": "PlayStation 5",
+  "description": "Dernière console de jeu de Sony avec des graphismes haute fidélité et des temps de chargement rapides.",
+  "prix": 500,
+  "categorieID": 3,
+  "fournisseurID": 2,
+  "avisID": 14
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff324"
+  },
+  "ID": 15,
+  "nom": "Xbox Series X",
+  "description": "Console de jeu de nouvelle génération de Microsoft offrant une performance de pointe et une expérience de jeu immersive.",
+  "prix": 550,
+  "categorieID": 3,
+  "fournisseurID": 5,
+  "avisID": 15
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff325"
+  },
+  "ID": 16,
+  "nom": "Nintendo Switch",
+  "description": "Console hybride Nintendo offrant à la fois une expérience de console de salon et de console portable.",
+  "prix": 300,
+  "categorieID": 3,
+  "fournisseurID": 4,
+  "avisID": 16
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff326"
+  },
+  "ID": 17,
+  "nom": "PlayStation 4",
+  "description": "Console de jeu populaire de Sony avec un vaste catalogue de jeux et des fonctionnalités multimédias avancées.",
+  "prix": 300,
+  "categorieID": 3,
+  "fournisseurID": 3,
+  "avisID": 17
+},
+{
+  "_id": {
+    "$oid": "65e7228ed4870c7ccecff327"
+  },
+  "ID": 18,
+  "nom": "Xbox One",
+  "description": "Console de jeu de Microsoft offrant des performances solides et une gamme variée de jeux.",
+  "prix": 250,
+  "categorieID": 3,
+  "fournisseurID": 1,
+  "avisID": 18
+}]
